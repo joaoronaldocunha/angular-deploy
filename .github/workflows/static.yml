@@ -33,5 +33,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ara0062/dist/browser
+        publish_dir: ara0062/dist/ara0062/browser
         enable_jekyll: true
